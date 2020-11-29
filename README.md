@@ -12,7 +12,17 @@
   - Confirm and Pay
   - Track order/Delivery
   
-### How to execute?
+### Templates
+  - Categories
+![alt text](https://github.com/ssharadhas/online_retailjava/blob/master/images/categories.png?raw=true)
+
+  - Hearing aids
+![alt text](https://github.com/ssharadhas/online_retailjava/blob/master/images/hearingaid.png?raw=true)
+
+  - Confirm Page
+![alt text](https://github.com/ssharadhas/online_retailjava/blob/master/images/confirm.png?raw=true)
+  
+#### How to execute?
 
   - Download the ZIP file. Go to online_retailgui/retail_system/src/retail_system and run the file "start.java". 
   - Create the relevant databases according to the sql queries in the JFrame forms
