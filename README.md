@@ -16,6 +16,8 @@
   - Categories
 ![](https://github.com/ssharadhas/online_retailgui/blob/master/images/categories.png=250x250)
 
+<img src="https://github.com/ssharadhas/online_retailgui/blob/master/images/categories.png" width="48">
+
   - Hearing aids
 ![](https://github.com/ssharadhas/online_retailgui/blob/master/images/hearingaids.png=250x250)
 
