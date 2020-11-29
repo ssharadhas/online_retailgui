@@ -14,15 +14,14 @@
   
 ### Templates
   - Categories
-![](https://github.com/ssharadhas/online_retailgui/blob/master/images/categories.png=500x500)
 
-<img src="https://github.com/ssharadhas/online_retailgui/blob/master/images/categories.png" width="48">
+<img src="https://github.com/ssharadhas/online_retailgui/blob/master/images/categories.png" width="600">
 
   - Hearing aids
-<img src="https://github.com/ssharadhas/online_retailgui/blob/master/images/confirm.png" width="100">
+<img src="https://github.com/ssharadhas/online_retailgui/blob/master/images/hearingaids.png" width="600">
 
   - Confirm Page
-![](https://github.com/ssharadhas/online_retailgui/blob/master/images/confirm.png?raw=true)
+<img src="https://github.com/ssharadhas/online_retailgui/blob/master/images/confirm.png" width="600">
   
 #### How to execute?
 
