@@ -17,10 +17,10 @@
 ![](https://github.com/ssharadhas/online_retailgui/blob/master/images/categories.png=250x250)
 
   - Hearing aids
-![alt text](https://github.com/ssharadhas/online_retailgui/blob/master/images/hearingaid.png=250x250)
+![](https://github.com/ssharadhas/online_retailgui/blob/master/images/hearingaids.png=250x250)
 
   - Confirm Page
-![alt text](https://github.com/ssharadhas/online_retailgui/blob/master/images/confirm.png?raw=true)
+![](https://github.com/ssharadhas/online_retailgui/blob/master/images/confirm.png?raw=true)
   
 #### How to execute?
 
