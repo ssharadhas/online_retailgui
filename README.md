@@ -14,7 +14,7 @@
   
 ### Templates
   - Categories
-![](https://github.com/ssharadhas/online_retailgui/blob/master/images/categories.png=250x250)
+![](https://github.com/ssharadhas/online_retailgui/blob/master/images/categories.png=500x500)
 
 <img src="https://github.com/ssharadhas/online_retailgui/blob/master/images/categories.png" width="48">
 
