@@ -14,13 +14,13 @@
   
 ### Templates
   - Categories
-![alt text](https://github.com/ssharadhas/online_retailjava/blob/master/images/categories.png?raw=true)
+![alt text](https://github.com/ssharadhas/online_retailgui/blob/master/images/categories.png?raw=true)
 
   - Hearing aids
-![alt text](https://github.com/ssharadhas/online_retailjava/blob/master/images/hearingaid.png?raw=true)
+![alt text](https://github.com/ssharadhas/online_retailgui/blob/master/images/hearingaid.png?raw=true)
 
   - Confirm Page
-![alt text](https://github.com/ssharadhas/online_retailjava/blob/master/images/confirm.png?raw=true)
+![alt text](https://github.com/ssharadhas/online_retailgui/blob/master/images/confirm.png?raw=true)
   
 #### How to execute?
 
