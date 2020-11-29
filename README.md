@@ -14,7 +14,7 @@
   
 ### Templates
   - Categories
-![alt text](https://github.com/ssharadhas/online_retailgui/blob/master/images/categories.png?raw=true)
+![alt text](https://github.com/ssharadhas/online_retailgui/blob/master/images/categories.png=250x250?raw=true)
 
   - Hearing aids
 ![alt text](https://github.com/ssharadhas/online_retailgui/blob/master/images/hearingaid.png?raw=true)
