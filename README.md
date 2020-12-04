@@ -8,6 +8,7 @@
      3. Customized shoes
      4. Writing aids
      5. Braille equipments
+     6. Hand aids
   - Add to cart
   - Confirm and Pay
   - Track order/Delivery
